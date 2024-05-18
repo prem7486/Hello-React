@@ -1,0 +1,69 @@
+{
+    "info": {
+        "id": "68533",
+        "name": "Vijay Dairy",
+        "cloudinaryImageId": "jrrxcxw1yvw9yitglfpt",
+        "locality": "Panchkula",
+        "areaName": "Sector 9",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+            "Beverages",
+            "Bakery",
+            "Ice Cream"
+        ],
+        "avgRating": 4.8,
+        "veg": true,
+        "parentId": "223178",
+        "avgRatingString": "4.8",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 31,
+            "lastMileTravel": 7.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-35 mins",
+            "lastMileTravelString": "7.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-05-07 21:30:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-b7dbd4bb-1ab4-46a7-a8c6-79b91e063a7c"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/vijay-dairy-panchkula-sector-9-chandigarh-68533",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
